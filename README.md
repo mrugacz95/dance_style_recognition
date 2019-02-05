@@ -12,7 +12,7 @@ Important: to download dataset you have to run `getExtendedBallroomDataset.py` w
 
 ## Model 
 
-![image](https://user-images.githubusercontent.com/12548284/52310785-e41d1f80-29a4-11e9-9bc4-4e63c23db1f9.png)
+<img src="https://user-images.githubusercontent.com/12548284/52310785-e41d1f80-29a4-11e9-9bc4-4e63c23db1f9.png" width="108" height="320" />
 
 ## Presentation
 
@@ -33,7 +33,7 @@ scikit-learn
 
 ## Dataset 
 
-[Source](http://anasynth.ircam.fr/home/media/ExtendedBallroom)
+[ExtendedBallroom](http://anasynth.ircam.fr/home/media/ExtendedBallroom)
 
 > U. Marchand, G. Peeters, "The Extended Ballroom Dataset", in ISMIR 2016 Late-Breaking Session, New-York, USA.
 
